@@ -1,1 +1,5 @@
+Risk Log
 
+Risk: Miscommunication between teams
+Impact: Medium
+Mitigation: Weekly updates and clear documentation
